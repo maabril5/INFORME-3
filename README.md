@@ -37,13 +37,24 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203219726-bafd1caf-e1a4-457d-9797-1e7c2ef05206.png)
 
+Hay 3 grupos de resistores en serie en el circuito:
 
+En la conexión entre el punto 1 y 4 están las siguientes resistencias en el orden:
+
+1-R10-R1-R7-R8-4
+
+En la conexión entre el punto 2 y 3 están las siguientes resistencias en el orden:
+
+2-R6-R2-R4-R11-3
+En la conexión entre el punto 6 y 5 están las siguientes resistencias en el orden:
+
+6-R12-R9-R3-R5-5
 
 SECCIÓN 5–2 Corriente en un circuito en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203219838-4eb8a499-fb02-4b3f-bc0b-efee68c42b46.png)
 
-
+Siendo un circuito en serie, la corriente tiene un valor constante en toda la trayectoria cerrada. Por tanto, cada miliamperio indica un valor de corriente de 5mA.
 
 ![image](https://user-images.githubusercontent.com/117920423/203219865-f0854470-c458-4ece-8a9b-51e84a55a21b.png)
 
