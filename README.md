@@ -184,6 +184,142 @@ SECCIÓN 5–10 Localización de fallas
 
 
 
+SECCIÓN 6–1 Resistores en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/203223860-3e5a8aa1-befe-4679-bd91-ad9616fe063d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203223890-0c03480b-a1f9-4449-95d1-f256c72d1768.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203223928-cc697f51-37df-448c-97ec-b765b9b514c4.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203223958-2d77e9e0-dd7c-4d2a-b77c-c71d407465cb.png)
+
+
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/203224034-b9984b4b-2613-44b0-87a8-6943430e01bd.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224069-35b00f16-7d0c-47dd-b9a2-3b7c569c8508.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203224087-271b17e7-9fa5-479a-a6a7-a01f95e67d82.png)
+
+
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
+
+![image](https://user-images.githubusercontent.com/117920423/203224140-4fb0cc84-2064-4883-b943-23e0b3355796.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224184-1f8fa437-afa4-48c5-8958-900831cdfacc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224212-e0ac65ba-3d9d-4d35-8820-525df75fa67f.png)
+
+
+
+SECCIÓN 6–4 Resistencia total en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/203224271-0f2297b0-1dc7-4201-ab36-dd0eed7916f7.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224298-9a8fa41d-cce3-485a-b5a0-04b484779ab3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224358-1f4735a2-1198-4341-a436-3b340fbd7b44.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224398-3f0a63b9-457a-478f-8d9e-d5d4058e4225.png)
+
+
+
+SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+![image](https://user-images.githubusercontent.com/117920423/203224460-d364c19d-4da4-4b42-8a6d-d4d77f111ccf.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224503-a1596c02-0b67-45b8-a4ac-c052a1f1a5f9.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224534-9e442ffa-4c33-4537-8c0c-d56f70614bee.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224612-695472e7-9916-4230-825a-f8e86349e5c4.png)
+
+
+
+SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/203224661-f26d877f-fb7b-461f-a5f8-9183014d78da.png)
+
+
+
+SECCIÓN 6–7 Divisores de corriente
+
+![image](https://user-images.githubusercontent.com/117920423/203224749-ac6192b4-5360-43c7-8b9d-827ac0224e28.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224772-a74bf16d-3dfa-443c-b7eb-8bf9696374af.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224805-68a22b21-5bcf-4e79-a8f2-f9453d907264.png)
+
+
+
+SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/203224893-e72926bc-b989-458c-884d-19c9966b8e53.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203224935-10f16e38-c838-4c37-8f14-154c8bbdca8a.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203224984-8d3e1cd7-3973-4097-9f79-4b468061da93.png)
+
+
+
+SECCIÓN 6–10 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117920423/203225030-f1dd2da0-0bd3-49de-9100-472a0fe5617b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203225095-7a954997-f1b0-4110-8907-c5f49f9f3a80.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203225111-dc65b386-5557-4e26-80b9-00c8054a5096.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203225152-f0ceebf9-6d52-4ae3-bca2-7b8d8259b940.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203225198-5ae2a34d-27c8-49ea-9274-e7b50e02deea.png)
+
+
+
+![image](https://user-images.githubusercontent.com/117920423/203225215-2856fe6d-8ad3-4b37-89dd-54dc489601f8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203225241-3fbcfd58-c057-4bc2-8ac1-f22c7c31091d.png)
+
+
+
+
+
+
+
 
 
 
