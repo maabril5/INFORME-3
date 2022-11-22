@@ -30,9 +30,9 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203223244-5d472476-2452-41cf-a35d-98a86cf921ff.png)
 
-Entre las puntas 1 y 8 están presentes 4 resistencias, sin embargo, debido a que no se pueden observar los colores de las bandas de las resistencias no se puede realizar el cálculo de la resistencia total que recorre dicha trayectoria. Pero se dejaría sentir el procedimiento a realizar si se tuvieran valores de las resistencias:
+- Observamos que entre las puntas 1 y 8 hay 4 resistencias, debido a que no se pueden observar los colores de las bandas de las resistencias no se puede realizar el cálculo de la resistencia total que recorre dicha trayectoria.
 
-RT = R13 + R7 + R14 + R16
+- RT = R13 + R7 + R14 + R16
 
 ![image](https://user-images.githubusercontent.com/117920423/203219726-bafd1caf-e1a4-457d-9797-1e7c2ef05206.png)
 
