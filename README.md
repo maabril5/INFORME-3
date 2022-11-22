@@ -19,6 +19,11 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203219380-89566037-02cd-40b5-98ea-efcb46939528.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203227238-b3ef02f9-1233-4ef8-afe6-814d056b2c63.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203227405-6b35e081-7118-42b2-bf71-50b58b20cb02.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203227629-f4172fbd-8f32-4076-b470-7aa1c2e3240c.png)
 
 
 ![image](https://user-images.githubusercontent.com/117920423/203219660-c8910be7-15a1-4dac-8d7c-2a2f753417f9.png)
