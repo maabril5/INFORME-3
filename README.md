@@ -23,6 +23,8 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203219660-c8910be7-15a1-4dac-8d7c-2a2f753417f9.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203223244-5d472476-2452-41cf-a35d-98a86cf921ff.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/117920423/203219726-bafd1caf-e1a4-457d-9797-1e7c2ef05206.png)
@@ -54,6 +56,8 @@ SECCIÓN 5–3 Resistencia total en serie
 
 
 ![image](https://user-images.githubusercontent.com/117920423/203220088-8f7ef76f-8566-4d08-a463-173acd218de0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203223348-1054e757-1cb8-49e1-84c6-3e983ffa4e36.png)
 
 
 
