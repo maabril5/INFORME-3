@@ -581,11 +581,27 @@ I4 = (RT/Rx)*IT  =  I1 = (525Ω/6800Ω) * 10uA = 0.772mA
 
 ![image](https://user-images.githubusercontent.com/117920423/203224772-a74bf16d-3dfa-443c-b7eb-8bf9696374af.png)
 
+IT = I1 + I2 + I3 + I4  =  I3 = IT - I1 - I2 - I4
 
+I3 = 15.53mA - 3.64mA - 6.67mA - 3.08mA = 2.14mA
+
+VT = IT*RT  =  VT = 0.016A*773Ω = 12V
+
+Rx = VT/Ix
+
+R1 = 12V/0.00364A = 3.3kΩ
+
+R2 = 12V/0.00667A = 1.8kΩ
+
+R3 = 12V/0.00214A = 5.6kΩ
+
+R4 = 12V/0.00308A = 3.9kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203224805-68a22b21-5bcf-4e79-a8f2-f9453d907264.png)
 
+R = 50mV/50A = 1mΩ
 
+I = 50mV/10kΩ = 0.005V/10000Ω = 5*10^-6A = 5uA
 
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
