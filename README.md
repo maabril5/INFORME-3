@@ -383,7 +383,7 @@ SECCIÓN 6–1 Resistores en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203223890-0c03480b-a1f9-4449-95d1-f256c72d1768.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/203478894-4e98a181-fedd-4675-9353-6d10dec5cfdb.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203223928-cc697f51-37df-448c-97ec-b765b9b514c4.png)
 
