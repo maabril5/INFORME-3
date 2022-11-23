@@ -46,6 +46,7 @@ En la conexión entre el punto 1 y 4 están las siguientes resistencias en el or
 En la conexión entre el punto 2 y 3 están las siguientes resistencias en el orden:
 
 2-R6-R2-R4-R11-3
+
 En la conexión entre el punto 6 y 5 están las siguientes resistencias en el orden:
 
 6-R12-R9-R3-R5-5
@@ -58,21 +59,37 @@ Siendo un circuito en serie, la corriente tiene un valor constante en toda la tr
 
 ![image](https://user-images.githubusercontent.com/117920423/203219865-f0854470-c458-4ece-8a9b-51e84a55a21b.png)
 
-
+Para obtener un voltaje 4.5 en cada lámpara V y desconociendo el número limitado de baterías que se pueden colocar, usaremos 9 baterías de 1.5 V cada una y que, al sumarlas, ya que están en un circuito en serie da un total de 13.5 V; mismos que por cada caída de voltaje van aplicando 4.5 V a cada lámpara al conectar el interruptor a la trayectoria del circuito.
 
 SECCIÓN 5–3 Resistencia total en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203219935-ddabda1d-72ba-4423-be6b-7e65c557c8fe.png)
 
+a) 560 Ω + 1000 Ω  =  RT = 1560 Ω
 
+b) 47 Ω + 56 Ω  =  RT = 103 Ω
+
+c) 1.5k Ω + 2.2k Ω + 10k Ω  =  RT = 13.7 kΩ
+
+d) 1.0 M Ω + 470k Ω + 1.0k Ω + 2.2MΩ  =  RT = 3671 kΩ = 3.671MΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203220005-b993c064-5488-4e3a-b2b9-442274a4dcd0.png)
 
+Teniendo 12 resistores con el mismo valor de 5.6 kΩ, para calcular la resistencia total se procede a multiplicar el número de resistencias existentes por el valor que tienen estas.
 
+RT = 12(5.6) = 67.2 kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203220031-02d55998-8c3a-41c6-b7dd-23b793d188c2.png)
 
+Tenemos en cuenta:
 
+RT = R1 + R2 + R3 + R4 + R5
+
+Reemplazo y despejo R5:
+
+17.4 = 5.6 + 1.0 + 2.2 +4.7 +R5
+
+R5 = 3.9 kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203220088-8f7ef76f-8566-4d08-a463-173acd218de0.png)
 
