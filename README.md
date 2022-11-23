@@ -511,31 +511,73 @@ SECCIÓN 6–5 Aplicación de la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/117920423/203224460-d364c19d-4da4-4b42-8a6d-d4d77f111ccf.png)
 
-
+I = 110V/33Ω * 3 = 330V/33Ω = 10A
 
 ![image](https://user-images.githubusercontent.com/117920423/203224503-a1596c02-0b67-45b8-a4ac-c052a1f1a5f9.png)
 
+I = 110V/2.2kΩ = 50mA = 0.05A
 
+Es preferible tener a los focos en paralelo debido a que si se funde uno no afecta a los demás focos, en cambio en serie se verían afectados todos.
 
 ![image](https://user-images.githubusercontent.com/117920423/203224534-9e442ffa-4c33-4537-8c0c-d56f70614bee.png)
 
+RT = V/I = 15V/0.5A = 30Ω
 
+1/RT = 1/R1 + 1/R2  =  1/R2 = 1/RT - 1/R1
+
+1/R2 = 1/30Ω - 1/68Ω
+
+1/R2 = 68 - 30/2040Ω  =  R2 = 2040Ω/38 = 53.68Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203224612-695472e7-9916-4230-825a-f8e86349e5c4.png)
 
+R1 = 100V/50mA = 2kΩ
 
+I2 = IR - I3 = 250mA - 83.3mA = 167mA
+
+I3 = 100V/1.2kΩ = 83.3mA
+
+IT = I1 + I2 + I3
+
+IT = 50mA + 83.3mA + 167mA = 300mA
+
+R2 = 100V/167mA = 100V/0.167A = 598.88Ω
 
 SECCIÓN 6–6 Fuentes de corriente en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203224661-f26d877f-fb7b-461f-a5f8-9183014d78da.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203624077-e2ed9a78-8c29-4f7b-9e18-8b34c2c7c8c4.png)
 
+- Posición A = 2.25mA
+
+- Posición B = 4.75mA
+
+- Posición C = 2.25mA + 4.75mA = 7mA
 
 SECCIÓN 6–7 Divisores de corriente
 
 ![image](https://user-images.githubusercontent.com/117920423/203224749-ac6192b4-5360-43c7-8b9d-827ac0224e28.png)
 
+a) RT = 1/(1/R1) + (1/R2)
 
+RT = 1/(1/1.0MΩ) + (1/2.2MΩ)  =  RT = 2.2MΩ/3.2 = 687.5Ω
+
+I1 = (RT/Rx)*IT  =  I1 = (687.5Ω/22000000Ω) * 10uA = 6.88uA
+
+I2 = (RT/Rx)*IT  =  I1 = (687.5Ω/2200000Ω) * 10uA = 3.13uA
+
+b) RT = 1/(1/R1) + (1/R2) + (1/R3) + (1/R4)
+
+RT = 1/(1/1.0kΩ) + (1/2.2kΩ) + (1/3.3kΩ) + (1/6.8kΩ)  =  RT = 49.37kΩ/94.028 = 525Ω
+
+I1 = (RT/Rx)*IT  =  I1 = (525Ω/1000Ω) * 10mA = 5.25mA
+
+I2 = (RT/Rx)*IT  =  I1 = (525Ω/2200Ω) * 10uA = 2.39mA
+
+I3 = (RT/Rx)*IT  =  I1 = (525Ω/3300Ω) * 10mA = 1.59mA
+
+I4 = (RT/Rx)*IT  =  I1 = (525Ω/6800Ω) * 10uA = 0.772mA
 
 ![image](https://user-images.githubusercontent.com/117920423/203224772-a74bf16d-3dfa-443c-b7eb-8bf9696374af.png)
 
