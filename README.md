@@ -95,23 +95,49 @@ R5 = 3.9 kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203223348-1054e757-1cb8-49e1-84c6-3e983ffa4e36.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203464106-7436b981-f486-4311-9049-df1b051ea839.png)
 
+RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ + 0.0047 kΩ + 0.010 kΩ + 0.012 kΩ + 0.001 kΩ + 1000 kΩ + 560 kΩ + 5600 kΩ + 680 kΩ + 10000 kΩ
+
+RT = 17848.83 kΩ = 17.849 MΩ
 
 SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/117920423/203220170-434e5ed7-c3e9-4080-b7f7-02feb69efa17.png)
 
+a) I = V/R
 
+5.5V/8.8kΩ = 0.625 mA
+
+b) I = 16V/3.76MΩ = 4.26uA
 
 ![image](https://user-images.githubusercontent.com/117920423/203220227-8181bebe-3710-45c2-ac76-fa320bd84cbd.png)
 
+a) I = V/R
 
+I = 48V/1410Ω = 0.034A
+
+b) Vx = I*Rx
+
+V1 = 0.034A*470Ω = 16V en V1, V2 y V3
+
+c) PT = I^2 * RT
+
+PT = 0.034^2 * 1410 = 1.63W
 
 ![image](https://user-images.githubusercontent.com/117920423/203220273-b083e155-0d37-47af-9e5d-accc604a39b0.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203220304-643d6d1f-fc45-436a-97ea-d758cc1d9ad7.png)
 
+I = Vx/Rx  =  Rx = Vx/I
 
+R1 = 21.7V/65.8mA = 0.33kΩ
+
+R2 = 14.5V/65.8mA = 0.22kΩ
+
+R3 = 6.58V/65.8mA = 0.1kΩ
+
+R4 = 30.9V/65.8mA = 0.47kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203220378-371f066d-029b-4e6d-b739-1dca87aef317.png)
 
