@@ -257,15 +257,41 @@ Salida B= Vx = (Vs/RT) Rx  =  VB= (5V/18.9kΩ) 10KΩ= 7.94V
 
 Salida C= Vx = (Vs/RT) Rx  =  VC= (5V/18.9kΩ) 3.3kΩ = 2.62V
 
+![image](https://user-images.githubusercontent.com/117920423/203469861-ada8124e-7ef0-4709-84d0-44767472cfec.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203469876-b1bf76ee-0f14-4228-896c-1e3179231a84.png)
+
+I = V/R + 2R + 3R + 4R + 5R  =  I = 90V/15R
+
+Vx = I*Rx
+
+V1 = 90V/15R * R = 6V
+
+V2 = 90V/15R * 2R = 12V
+
+V3 = 90V/15R * 3R = 18V
+
+V4 = 90V/15R * 4R = 24V
+
+V5 = 90V/15R * 5R = 30V
+
 ![image](https://user-images.githubusercontent.com/117920423/203221025-1cdbe206-d821-4750-bd64-ca0912b45165.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203221050-8840e5da-9829-4087-805f-24d9738a79de.png)
 
+I = V/R  =  I = 10V/5.6kΩ = 1.79mA
 
+Vx = I*Rx
+
+V2 = 1.79mA*1kΩ = 1.79V
+
+V3 = 1.79mA*0.56kΩ = 1.0024V
+
+V4 = 1.79mA*10kΩ = 17.9V
 
 ![image](https://user-images.githubusercontent.com/117920423/203221091-40e5dcc2-c997-4f54-8d2c-9457712a5a1a.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/203471304-363ea16d-9fb6-4549-ada6-d1a077762055.png)
 
 SECCIÓN 5–8 Potencia en circuitos en serie
 
@@ -273,12 +299,21 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203222277-369bbd3a-f46b-45fc-9529-3bd71cbe6f36.png)
 
+Vs = 10 + 1.79 + 1.0024 + 17.9 = 30.69V
 
+PT = Vs*I  =  PT = 30.69V*1.79mA = 54.93mW
 
 ![image](https://user-images.githubusercontent.com/117920423/203222342-40e82d0d-1a24-4096-b0f6-20e5fc172df1.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203222370-8a7a33d8-108a-48d0-a821-0060dcce0f18.png)
 
+I = V/R  =  I = 12V/5.6MΩ = 2.14uA
+
+Resistencia 2 = R2 = V2/I  =  R2 = 4.8V/2.14uA = 2.24MΩ
+
+Resistencia 3 = P = I^2*R  =  R3 = P/I^2 = 21.5uW/(2.14uA)^2 = 4.70MΩ
+
+RT = R1 + R2 + R3  =  5.6MΩ + 2.24MΩ + 4.70MΩ = 12.54MΩ
 
 
 SECCIÓN 5–9 Mediciones de voltaje
@@ -287,13 +322,35 @@ SECCIÓN 5–9 Mediciones de voltaje
 
 ![image](https://user-images.githubusercontent.com/117920423/203222485-7acc609a-dfc8-41a5-8973-37346fe25470.png)
 
+I = V/R  =  I = 100V/13.2kΩ = 7.58mA
 
+V = I*R
+
+VA = 7.58mA * 13.2kΩ = 100V
+
+VB = 7.58mA * 7.6kΩ = 57.61V
+
+VC = 7.58mA * 2kΩ = 15.16V
+
+VD = 7.58mA * 1kΩ = 7.58V
 
 ![image](https://user-images.githubusercontent.com/117920423/203222518-70f4f97a-3b46-46dc-879d-ace8733c97de.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203222541-25787441-3355-4bbb-8d3d-aaa6bd835223.png)
 
+Sumamos las fiuentes de voltaje = 15V - 9V = 6V
 
+I = V/R  =  I = 6V/1816kΩ = 3.30uA
+
+V = I*R
+
+VA = 3.30uA * 1760kΩ = 5.81V
+
+VB = 3.30uA * 1200kΩ = 3.96V
+
+VC = 3.30uA * 1100kΩ = 3.63V
+
+VD = 3.30uA * 100kΩ = 0.33V
 
 SECCIÓN 5–10 Localización de fallas
 
@@ -301,7 +358,9 @@ SECCIÓN 5–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117920423/203222714-6c4893cb-91b9-4b99-a1e2-f5bef9f3943a.png)
 
+a) La falla localizada es debido al resistor fundido, ya que gracias al amperímetro podemos observar que no circula corriente a través del circuito en serie. El componente que falla en el circuito es la resistencia R4, porque al medir 12V se lo identifica como el resistor fundido.
 
+ b) Existe un cortocircuito por la mala conexión de alambres y a tierra, es decir, una mala conexión de los terminales en las resistencias. Un cortocircuito provoca más corriente de lo normal, se puede observar que de A hacia B hay 0 voltios por lo que en ese trayecto las resistencias R5 y R4 son los componentes que contienen la falla.
 
 ![image](https://user-images.githubusercontent.com/117920423/203222758-38269a93-15f0-437b-8149-f862ce0a7715.png)
 
@@ -309,13 +368,13 @@ SECCIÓN 5–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117920423/203222871-688aeaf4-28bc-4961-bf64-cf7dd201e435.png)
 
-
+No se pueden identificar los colores de las bandas de cada resistencia para comprobar si está bien calculado cada valor de resistencia total en cada una de las 3 trayectorias existentes, sin embargo, las mediciones de infinito si son correctas, ya que cuando la resistencia tiende al infinito significa que el circuito está abierto y efectivamente esas trayectorias sí están abiertas.
 
 ![image](https://user-images.githubusercontent.com/117920423/203222908-9b34a5e2-db9a-4a8e-836b-6bab11caba40.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203222938-cef6d6ae-eb31-4b35-9f62-4da398224db0.png)
 
-
+Existe un problema en la medición de la resistencia total, ya que entre las puntas 1 y 2 no existe una trayectoria cerrada, si no que el circuito está abierto; por lo que no podría tener ese valor de resistencia, si no que la resistencia deberá tender al infinito. El mismo sucede entre las puntas 2 y 4, debido a que tienen una trayectoria abierta en el circuito.
 
 
 SECCIÓN 6–1 Resistores en paralelo
