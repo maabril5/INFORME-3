@@ -95,7 +95,7 @@ R5 = 3.9 kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203223348-1054e757-1cb8-49e1-84c6-3e983ffa4e36.png)
 
-![image](https://user-images.githubusercontent.com/117920423/203464106-7436b981-f486-4311-9049-df1b051ea839.png)
+![image](https://user-images.githubusercontent.com/117920423/203465683-39920aeb-94ad-40cf-84a5-3b23be67614c.png)
 
 RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ + 0.0047 kΩ + 0.010 kΩ + 0.012 kΩ + 0.001 kΩ + 1000 kΩ + 560 kΩ + 5600 kΩ + 680 kΩ + 10000 kΩ
 
