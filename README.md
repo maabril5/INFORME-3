@@ -389,33 +389,65 @@ SECCIÓN 6–1 Resistores en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203223958-2d77e9e0-dd7c-4d2a-b77c-c71d407465cb.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203480727-2d366e33-49d8-4b06-b18d-5d82aec8dc97.png)
 
+Las resistencias R1, R2, R5, R9, R10 Y R12 están en paralelo.
+
+Las resistencias R4, R6, R7 Y R8 están en paralelo.
+
+Las resistencias R3 Y R11 están en paralelo.
 
 SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203224034-b9984b4b-2613-44b0-87a8-6943430e01bd.png)
 
-
+Debido a que el circuito está conectado en paralelo todo el circuito tiene un voltaje de 100V, el cual se registrará en cada medidor de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117920423/203224069-35b00f16-7d0c-47dd-b9a2-3b7c569c8508.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203224087-271b17e7-9fa5-479a-a6a7-a01f95e67d82.png)
 
+Posición A = V1 = 15V,  V2 = 0V,  V3 = 0V,  V4 = 15V
 
+Posición B = V1 = 15V,  V2 = 0V,  V3 = 15V,  V4 = 0V
+
+Posición C = V1 = 15V,  V2 = 15V,  V3 = 0V,  V4 = 0V
 
 SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/117920423/203224140-4fb0cc84-2064-4883-b943-23e0b3355796.png)
 
+IT = I1 + I2 + I3
 
+IT = 250mA + 300mA + 800mA = 1350mA
 
 ![image](https://user-images.githubusercontent.com/117920423/203224184-1f8fa437-afa4-48c5-8958-900831cdfacc.png)
 
+Conversión de la corriente:
 
+IT = 5.03mA = 0.00503A 
+
+I1 = 1mA = 0.001A
+
+I2 = 2.14mA = 0.00214A
+
+I3 = 0.470mA = 0.000470A
+
+IA = IT - I1 - I2 - I3 = 0.00142A
+
+V = I1*R1 = 0.001A*47Ω = 0.047V
+
+R2 = 0.047V/0.00214A = 22Ω
+
+R3 = 0.047V/0.00047A = 100Ω
+
+R4 = 0.047V/0.00142A = 33Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203224212-e0ac65ba-3d9d-4d35-8820-525df75fa67f.png)
 
+VT = IT*RT  =  VT = 100mA*25Ω = 2500mV
 
+IN = VT/RN  =  I = 2500mV/220Ω = 11.36mA
 
 SECCIÓN 6–4 Resistencia total en paralelo
 
