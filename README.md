@@ -609,36 +609,71 @@ SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203224935-10f16e38-c838-4c37-8f14-154c8bbdca8a.png)
 
+a) PT = IT^2*RT  =  RT = 687.5Ω
 
+PT = 0.01^2*687.5Ω = 0.069W = 68.8mW
+
+b) PT = IT^2*RT  =  RT = 525Ω
+
+PT = 0.01^2*525Ω = 0.053W = 52.5mW
 
 ![image](https://user-images.githubusercontent.com/117920423/203224984-8d3e1cd7-3973-4097-9f79-4b468061da93.png)
 
+Vs = PT/IT = 2W/0.2A = 10V
 
+I2 = P2/Vs = 0.75W/10V = 75mA
+
+R2 = Vs^2/P2 = 10^2V/0.75W = 133.33Ω
+
+P1 = PT - P2 = 2W - 0.75W = 1.25W
+
+R1 = Vs^2/P1 = 10^2V/1.25W = 80Ω
+
+I1 = P1/Vs = 1.25W/10V = 125mA
 
 SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117920423/203225030-f1dd2da0-0bd3-49de-9100-472a0fe5617b.png)
 
+Ix = Px/VT = 75W/110V = 682mA
 
+IT = Ix * focos conectados = 682mA * 5 = 3410mA = 3.41A
 
 ![image](https://user-images.githubusercontent.com/117920423/203225095-7a954997-f1b0-4110-8907-c5f49f9f3a80.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203225111-dc65b386-5557-4e26-80b9-00c8054a5096.png)
 
-
+- El circuito no contiene fallas ni ninguna desconexión afectante.
 
 ![image](https://user-images.githubusercontent.com/117920423/203225152-f0ceebf9-6d52-4ae3-bca2-7b8d8259b940.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203225198-5ae2a34d-27c8-49ea-9274-e7b50e02deea.png)
 
+a) 1 y 2 = R = 1/R1 + 1/R2 = 1/1.0kΩ + 1/3.3kΩ = 767Ω
 
+b) 3 y 4 = R = 1/R3 + 1/R4 = 1/270Ω + 1/390Ω = 159.5Ω
+
+c) 5 y 6 = R = 1/R5 + 1/R6 + 1/R7 + 1/R8 = 1/1000kΩ + 1/1800kΩ + 1/680kΩ + 1/510kΩ = 201kΩ
+
+R5 abierto = R = 1/R6 + 1/R7 + 1/R8 = 1/1800kΩ + 1/680kΩ + 1/510kΩ = 624240000kΩ/2488800 = 251kΩ
+
+R6 abierto = R = 1/R5 + 1/R7 + 1/R8 = 1/1000kΩ + 1/680kΩ + 1/510kΩ = 346800000kΩ/1536800 = 226kΩ
+
+R7 abierto = R = 1/R5 + 1/R6 + 1/R8 = 1/1000kΩ + 1/1800kΩ + 1/510kΩ = 624240000kΩ/3228000 = 284kΩ
+
+R8 abierto = R = 1/R5 + 1/R6 + 1/R7 = 1/1000kΩ + 1/1800kΩ + 1/680kΩ = 624240000kΩ/3092000 = 330kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203225215-2856fe6d-8ad3-4b37-89dd-54dc489601f8.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203225241-3fbcfd58-c057-4bc2-8ac1-f22c7c31091d.png)
 
+a) Existe un corto ya que no interviene ninguna conexión en las puntas de las resistencias 1 y 2.
 
+b) No existe un corto, está correcto
 
+c) Existe un corto ya que no interviene ninguna conexión en las puntas de las resistencias 3 y 4.
+
+d) No existe un corto, está correcto
 
 
 
