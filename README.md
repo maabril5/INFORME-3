@@ -173,25 +173,61 @@ Vs = 14V
 
 ![image](https://user-images.githubusercontent.com/117920423/203220484-226cc487-c1b3-4f3b-890f-582c4323e15c.png)
 
+- Circuito a = Vs = Vs1 + Vs2 + Vs3 = 8V + 10V + 5V = 23V
 
+- Circuito b = Vs = 50V + 10V - 25V = 35V
+
+- Circuito c = Vs = 8V - 8V = 0V
 
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 ![image](https://user-images.githubusercontent.com/117920423/203220551-1af130b0-348f-49e9-a776-52f8d954f641.png)
 
+Usamos ley de Kirchhoff de los voltajes:
 
+Vs = V1 + V2 + V3 + V4 + V5
+
+20 = 1.5 + 5.5 + 3 + 6 + V5
+
+V5 = 4V
 
 ![image](https://user-images.githubusercontent.com/117920423/203220586-a6f35e27-f57e-44b9-b3e4-d2db536b0632.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203220619-145ae694-4db9-4eb4-8dec-b90f1919bf3e.png)
 
+Vs = 11.2V + 5.4V + 0.94V + 4.4V = 21.94V
 
+I = V/R  =  I = 11.2V/56Ω = 0.2A
+
+R4 = V4/I  =  R4 = 4.4V/0.2A = 22Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203220710-52da1d0c-0d8d-4f4e-b806-e129b89ae15b.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203220733-f4b46511-b73d-4d6f-8181-ee7b8ed68c44.png)
 
+Posición A = R = V/I  =  R = 18V/3.35mA = 5.37kΩ
 
+RT = R1 + R2 + R3 + R4 + R5  =  5.37kΩ = 4.18kΩ + R5
+
+R5 = 1.19kΩ    V = 3.35mA*1.19kΩ = 3.99V
+
+Posición B = R = V/I  =  R = 18V/3.73mA = 4.83kΩ
+
+RT = R1 + R2 + R3 + R4 + R5  =  4.83kΩ = 3.62kΩ + R5
+
+R5 = 1.21kΩ    V = 3.73mA*1.21kΩ = 4.51V
+
+Posición C = R = V/I  =  R = 18V/4.50mA = 4kΩ
+
+RT = R1 + R2 + R5  =  4kΩ = 2.8kΩ + R5
+
+R5 = 1.2kΩ    V = 4.50mA*1.2kΩ = 5.4V
+
+Posición D = R = V/I  =  R = 18V/6mA = 3kΩ
+
+RT = R1 + R5  =  3kΩ = 1.8kΩ + R5
+
+R5 = 1.2kΩ    V = 6mA*1.2kΩ = 7.2V
 
 SECCIÓN 5–7 Divisores de voltaje
 
@@ -199,13 +235,27 @@ SECCIÓN 5–7 Divisores de voltaje
 
 ![image](https://user-images.githubusercontent.com/117920423/203220856-1c68e0a7-27a6-4f3e-995e-525cc2251252.png)
 
+Aplicamos ley de Ohm : I = v/560Ω
 
+Aplicamos ley de Ohm y reemplazamos la intensidad por ecuación obtenida: Vx = I*Rx  =  VR27 = V/560Ω * 27Ω
+
+Dividimos la parte por el todo y le multiplicamos por 100.
+
+% = V*27Ω/560Ω/V * 100
+
+% = V*27Ω/V*560Ω * 100 = 4.82
 
 ![image](https://user-images.githubusercontent.com/117920423/203220889-e528b502-d386-46a6-b7e8-2b4d152376b6.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/203220980-9abff49a-1502-4f8f-8f08-1a0df75e2c5c.png)
 
+Calculamos la resistencia total: RT = R1 + R2 + R3 = 18.9kΩ
 
+Salida A = Vx = (Vs/RT) Rx  =  VA = (5V/18.9kΩ) 5.6kΩ = 4.44V
+
+Salida B= Vx = (Vs/RT) Rx  =  VB= (5V/18.9kΩ) 10KΩ= 7.94V
+
+Salida C= Vx = (Vs/RT) Rx  =  VC= (5V/18.9kΩ) 3.3kΩ = 2.62V
 
 ![image](https://user-images.githubusercontent.com/117920423/203221025-1cdbe206-d821-4750-bd64-ca0912b45165.png)
 
