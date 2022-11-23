@@ -453,19 +453,59 @@ SECCIÓN 6–4 Resistencia total en paralelo
 
 ![image](https://user-images.githubusercontent.com/117920423/203224271-0f2297b0-1dc7-4201-ab36-dd0eed7916f7.png)
 
+1/RT = 1/R1 + 1/R2 ... + 1/Rn
 
+a) 1/RT = 1/560Ω + 1/1000Ω
+
+1/RT = 1560/560000Ω = RT = 560000Ω/1560 = 359Ω
+
+b) 1/RT = 1/47Ω + 1/56Ω
+
+1/RT = 103/2632Ω = RT = 2632Ω/103 = 25.6Ω
+
+c) 1/RT = 1/1.5kΩ + 1/2.2kΩ + 1/10kΩ
+
+1/RT = 40.3/33kΩ = RT = 33kΩ/40.3 = 819Ω
+
+d) 1/RT = 1/1.0MΩ + 1/0.47MΩ + 1/0.001MΩ + 1/2.7MΩ 
+
+1/RT = 1.2744/0.0013MΩ = RT = 0.0013MΩ/1.2744 = 994Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203224298-9a8fa41d-cce3-485a-b5a0-04b484779ab3.png)
 
+1/RT = 1/R1 + 1/R2 ... + 1/R12
 
+1/RT = 1/6.8kΩ * 12  =  1/RT = 12/6.8kΩ
+
+RT = 6.8kΩ/12 = 567Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203224358-1f4735a2-1198-4341-a436-3b340fbd7b44.png)
 
+1/RT = 1/470Ω * 5 + 1/100Ω * 12
 
+1/RT = 500 + 5640/47000Ω  =  1/RT = 6140/47000Ω
+
+RT = 47000Ω/6140 = 7.65Ω
 
 ![image](https://user-images.githubusercontent.com/117920423/203224398-3f0a63b9-457a-478f-8d9e-d5d4058e4225.png)
 
+a) La resistencia total sería igual a R1, debido a que se presentan 2 interruptores  RT = 540kΩ
 
+b) RT = R1*R2/R1 + R2 = 510*470/510+470 = 245kΩ
+
+c) La resistencia igualmente sería lo mismo que R1 ya que está abieto y corta el paso de la corriente  RT = 540kΩ
+
+d) RT = 1/GT  , GT = G1 + G2 +...+ Gn
+
+G1 = 1/R1 = 1/510 = 0.0020kΩ
+
+G2 = 1/R2 = 1/470 = 0.0021kΩ
+
+G3 = 1/R3 = 1/910 = 0.0011kΩ
+
+GT = 0.0020kΩ + 0.0021kΩ + 0.0011kΩ = 0.0052kΩ
+
+RT = 1/0.0052kΩ = 193kΩ
 
 SECCIÓN 6–5 Aplicación de la ley de Ohm
 
