@@ -13,7 +13,19 @@ Haber entendido los conceptos presentados en el capíto 5 y 6, referentes a los 
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/203662079-d965d69d-5796-4f5f-b851-26ec1aea65bf.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203662109-7f4f09d3-49c3-4da3-a48e-360a03a10c6c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203662132-e3bd2f43-3eab-41f8-8eb3-3f2763828703.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203662165-c0515728-fb5e-495d-ae37-4cfd745ac3d3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203662211-996286eb-c108-4ee6-a096-6af3f9e3e26d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/203662235-436a1719-2068-47b1-8bc8-82a700879d98.png)
+
+3. EJERCICIOS DE APRENDIZAJE.
 
 SECCIÓN 5–1 Resistores en serie
 
