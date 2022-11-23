@@ -675,9 +675,21 @@ c) Existe un corto ya que no interviene ninguna conexión en las puntas de las r
 
 d) No existe un corto, está correcto
 
+5. CONCLUSIONES:
 
+- Se concluye tras el informe realizado lo influyente que son las leyes de Ohm y las de voltajes de Kirchhoff para poder resolver ejercicios de resistencias.
 
+- Los circuitos en serie y paralelo tienen una distinta funcionalidad en donde vemos el benefcios de los circuitos en paralelo para medir toda la corriente del mismo-
 
+- La localización de fallas es de gran ayuda para el análisis del circuito y su margen de error que pude presentar
+
+6. VIDEO:
+
+7. BIBLIOGRAFÍA:
+
+- Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. México: Pearson Educación: http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+- Reliabilityweb.com. (2010, mayo 18). Localización de fallas eléctricas. Reliabilityweb. https://reliabilityweb.com/sp/articles/entry/localizacion-de-fallas-electricas
 
 
 
