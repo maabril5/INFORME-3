@@ -141,13 +141,35 @@ R4 = 30.9V/65.8mA = 0.47kΩ
 
 ![image](https://user-images.githubusercontent.com/117920423/203220378-371f066d-029b-4e6d-b739-1dca87aef317.png)
 
+![image](https://user-images.githubusercontent.com/117920423/203465776-e06abc6c-5365-454a-8105-069ab4eb0beb.png)
 
+a) I = Vs/RT
+
+RT = 12V/7.84mA  =  RT = R1 + R2 + R3 + R4
+
+1.53kΩ = 1200Ω + R4
+
+R4 = 330Ω
+
+b) Calculamos la intensidad sumando las resistencias que se encuentren en esa trayectoria para obtener un valor de resistencia total
+
+IB = Vs/R2 + R3 + R4  =  12V/1.31kΩ = 9.16mA 
+
+IC = Vs/R3 + R4  =  12V/0.84kΩ = 14.29mA 
+
+ID = Vs/R4  =  12V/0.33kΩ = 36.36mA 
+
+c) Ya que ninguna de las corrientes en cualquier posición del interruptor es igual o mayor a 0.25 amperios el fusible no se funde.
 
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/203220447-dbd4d073-5739-4c64-a9e2-b4c2454132de.png)
 
+Vs = V1 + V2
 
+Vs = 5V + 9V
+
+Vs = 14V
 
 ![image](https://user-images.githubusercontent.com/117920423/203220484-226cc487-c1b3-4f3b-890f-582c4323e15c.png)
 
