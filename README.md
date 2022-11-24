@@ -695,7 +695,7 @@ d) No existe un corto, está correcto
 
 - La localización de fallas es de gran ayuda para el análisis del circuito y su margen de error que pude presentar
 
-6. VIDEO:
+6. VIDEO: https://youtu.be/mZocHozCqDg
 
 7. BIBLIOGRAFÍA:
 
